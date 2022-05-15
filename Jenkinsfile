@@ -11,7 +11,7 @@ pipeline {
     }
     stage('Deploy to Tomcat') {
       steps {
-        echo ""coming soon ..."
+        echo "coming soon ..."
       }
     }
   }

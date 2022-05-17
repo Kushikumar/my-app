@@ -23,5 +23,4 @@ public class Calculator {
 		String name = null;
 		return name.toString();
 	}	
-	
 }

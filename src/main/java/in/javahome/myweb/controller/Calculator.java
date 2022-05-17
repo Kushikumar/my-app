@@ -19,5 +19,9 @@ public class Calculator {
 	public int reminder(int i, int j){
 		return i%j;
 	}
+	public String getName(){
+		Stringname = null;
+		return name.toString();
+	}	
 	
 }
